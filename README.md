@@ -1,168 +1,141 @@
-# 👋 Hi, I'm Muzzamil Ahmed Khan
+<!-- ===================== HEADER ===================== -->
 
-🚀 WordPress Developer | Elementor Expert | Fixer of Complex Problems  
+<h1 align="center">Hi 👋, I'm Muzzamil Ahmed Khan</h1>
+<h3 align="center">WordPress Developer | Elementor Expert | Problem Solver</h3>
+
+<p align="center">
+I build clean, fast, and conversion-focused WordPress websites.<br>
+I don’t just design pages — I solve real business problems.
+</p>
+
+<p align="center">
+  <a href="https://solo.to/muzzamilahmedkhan">
+    <img src="https://img.shields.io/badge/All%20Links-Solo.to-black?style=for-the-badge&logo=linktree" />
+  </a>
+  <a href="https://muzzamilahmedkhan.site/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://wa.me/+923439821856">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
 
 ---
+
+<!-- ===================== ABOUT ===================== -->
 
 ## 💼 About Me
 
-I build WordPress websites that are clean, fast, and actually useful for businesses.
-
-Most developers focus on design only. I focus on solving problems.
-
-Whether it's a broken website, a slow page, or a full build from scratch, I handle it with a simple approach: understand → fix → improve.
-
-I’ve worked with international clients, handled urgent fixes under pressure, and delivered results when it mattered most.
+- 🔧 WordPress developer focused on real-world solutions  
+- ⚡ Fixing critical issues, optimizing performance, and building from scratch  
+- 🌍 Worked with international clients  
+- 🔥 Comfortable working under pressure and tight deadlines  
 
 ---
 
-## 🌐 My Main Hub
-
-👉 https://solo.to/muzzamilahmedkhan  
-
----
-
-## 🔗 All My Links
-
-### 💼 Freelance Platforms
-
-- Fiverr: https://www.fiverr.com/muzzamilkhan564/  
-- Upwork: https://www.upwork.com/freelancers/~012721c72de393c1b7  
-- PeoplePerHour: https://www.peopleperhour.com/freelancer/design/muzzamil_ahmed-khan-wordpress-developer-web-designer-zzwqqxxq  
-- Freelancer: https://www.freelancer.com/u/muzzamil3  
-- Truelancer: https://www.truelancer.com/freelancer/tluser7771778  
-- Ylancer: https://www.ylancer.com/yl/muzzamilahmedkhan  
-
----
-
-### 🌍 Portfolio & Website
-
-- Personal Website: https://muzzamilahmedkhan.site/  
-- Google Profile: https://g.co/kgs/jFGQ4sQ  
-- Trustpilot Reviews: https://www.trustpilot.com/review/muzzamilahmedkhan.site  
-
----
-
-### 💼 Professional
-
-- LinkedIn: https://www.linkedin.com/in/muzzamil-ahmed-khan/  
-
----
-
-### 📱 Social Media
-
-- Facebook (Page): https://www.facebook.com/muzzamilahmedkhanwp/  
-- Facebook (Profile): https://www.facebook.com/profile.php?id=61564919229750  
-- Instagram: https://www.instagram.com/muzzamilahmedkhanwpfb/  
-- Threads: https://www.threads.com/@muzzamilahmedkhanwpfb  
-- X (Twitter): https://x.com/muzzamilahmedkh  
-- Pinterest: https://www.pinterest.com/muzzamilahmedkhan  
-- YouTube: https://www.youtube.com/@muzzamilahmedkhanwordpress/  
-
----
-
-### 📬 Direct Contact
-
-- WhatsApp: https://wa.me/+923439821856  
-- Call: +923439821856  
-
----
+<!-- ===================== SERVICES ===================== -->
 
 ## 🛠️ What I Do
 
-- 🔹 Custom WordPress Development  
-- 🔹 Elementor Design (Clean & Conversion-Focused)  
-- 🔹 Landing Pages (Simple, Clear, Effective)  
-- 🔹 Website Speed Optimization  
-- 🔹 Bug Fixing (especially critical WordPress errors)  
-- 🔹 WooCommerce Setup  
-- 🔹 Website Redesign & Cleanup  
-- 🔹 Plugin Setup & Customization  
+<p>
+✔ Custom WordPress Development <br>
+✔ Elementor (Advanced Layouts & Clean UI) <br>
+✔ High-Converting Landing Pages <br>
+✔ Website Speed Optimization <br>
+✔ Bug Fixing (including functions.php issues) <br>
+✔ WooCommerce Setup <br>
+✔ Website Redesign & Cleanup <br>
+✔ Plugin Integration & Customization
+</p>
 
 ---
 
-## ⚡ Real Work Experience
+<!-- ===================== EXPERIENCE ===================== -->
 
-- Built a **custom Dinner Idea Generator tool** for a live client website  
-- Fixed live website crashes and critical errors under pressure  
-- Helped clients simplify complex landing pages into high-converting ones  
-- Supported clients after delivery with updates and improvements  
-- Worked long hours when needed to solve urgent production issues  
+## ⚡ Experience Highlights
 
----
-
-## 🧠 Skills
-
-- WordPress Development  
-- Elementor (Advanced)  
-- HTML / CSS  
-- PHP Debugging (WordPress level)  
-- Performance Optimization  
-- Problem Solving  
+- Built a **Dinner Idea Generator Tool** for a client website  
+- Fixed critical live website errors under pressure  
+- Simplified complex landing pages into clean, conversion-focused designs  
+- Helped with platform migrations and ongoing support  
+- Worked 20+ hours straight to resolve urgent production issues  
 
 ---
 
-## 🧰 Tools & Technologies
+<!-- ===================== TECH STACK ===================== -->
 
-- WordPress  
-- Elementor  
-- WooCommerce  
-- cPanel / Hosting  
-- DNS Management  
-- Basic JavaScript  
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,php,js" />
+</p>
 
 ---
+
+<!-- ===================== LINKS ===================== -->
+
+## 🔗 Connect With Me
+
+### 💼 Freelance Platforms
+<p>
+<a href="https://www.fiverr.com/muzzamilkhan564/">Fiverr</a> •
+<a href="https://www.upwork.com/freelancers/~012721c72de393c1b7">Upwork</a> •
+<a href="https://www.peopleperhour.com/freelancer/design/muzzamil_ahmed-khan-wordpress-developer-web-designer-zzwqqxxq">PeoplePerHour</a> •
+<a href="https://www.freelancer.com/u/muzzamil3">Freelancer</a> •
+<a href="https://www.truelancer.com/freelancer/tluser7771778">Truelancer</a> •
+<a href="https://www.ylancer.com/yl/muzzamilahmedkhan">Ylancer</a>
+</p>
+
+### 🌍 Professional & Portfolio
+<p>
+<a href="https://www.linkedin.com/in/muzzamil-ahmed-khan/">LinkedIn</a> •
+<a href="https://muzzamilahmedkhan.site/">Website</a> •
+<a href="https://www.trustpilot.com/review/muzzamilahmedkhan.site">Trustpilot</a> •
+<a href="https://g.co/kgs/jFGQ4sQ">Google Profile</a>
+</p>
+
+### 📱 Social Media
+<p>
+<a href="https://www.facebook.com/muzzamilahmedkhanwp/">Facebook Page</a> •
+<a href="https://www.facebook.com/profile.php?id=61564919229750">Facebook Profile</a> •
+<a href="https://www.instagram.com/muzzamilahmedkhanwpfb/">Instagram</a> •
+<a href="https://www.threads.com/@muzzamilahmedkhanwpfb">Threads</a> •
+<a href="https://x.com/muzzamilahmedkh">X (Twitter)</a> •
+<a href="https://www.pinterest.com/muzzamilahmedkhan">Pinterest</a> •
+<a href="https://www.youtube.com/@muzzamilahmedkhanwordpress/">YouTube</a>
+</p>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+
+## 📬 Contact Me
+
+- 📱 WhatsApp: https://wa.me/+923439821856  
+- 📞 Call: +923439821856  
+
+---
+
+<!-- ===================== STYLE ===================== -->
 
 ## 🎯 How I Work
 
 - I keep things simple  
-- I don’t overcomplicate solutions  
+- I focus on results, not just design  
 - I communicate clearly  
-- I focus on real results  
-- I fix problems properly (not temporary patches)  
+- I fix problems properly, not temporarily  
 
 ---
 
-## 💡 Why Choose Me?
+<!-- ===================== CLOSING ===================== -->
 
-Because I don’t just build websites, I take responsibility for making them work.
+## 🚀 Let’s Work Together
 
-If something breaks, I fix it.  
-If something is slow, I optimize it.  
-If something is confusing, I simplify it.
-
----
-
-## 📈 Open For Work
-
-- Freelance Projects  
-- Long-Term Collaboration  
-- WordPress Fixes  
-- Landing Pages  
-- Website Optimization  
-
----
-
-## ⭐ Fun Fact
-
-Most developers avoid this file:  
-👉 `functions.php`  
-
-I don’t.
-
----
-
-## 🙌 Support My Work
-
-If you find my work helpful:
-
-⭐ Star my repositories  
-🤝 Connect with me  
-📩 Reach out anytime  
-
----
-
-## 🚀 Let’s Build Something Real
-
-If you have a project, problem, or idea  
+If you have a project, a problem, or an idea —  
 I’m ready to help you make it work.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories
+</p>
